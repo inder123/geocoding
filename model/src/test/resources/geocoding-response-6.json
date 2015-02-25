@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texas, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.5007040,
+                  "lng" : -93.50803900000001
+               },
+               "southwest" : {
+                  "lat" : 25.83716390,
+                  "lng" : -106.6456460
+               }
+            },
+            "location" : {
+               "lat" : 31.96859880,
+               "lng" : -99.90181310
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.68395670,
+                  "lng" : -91.70601210
+               },
+               "southwest" : {
+                  "lat" : 26.99809190,
+                  "lng" : -108.09761410
+               }
+            }
+         },
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz de Tenerife",
+               "short_name" : "Santa Cruz de Tenerife",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz de Tenerife",
+               "short_name" : "TF",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canarias",
+               "short_name" : "CN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz de Tenerife, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.58939290,
+                  "lng" : -16.11936290
+               },
+               "southwest" : {
+                  "lat" : 28.40976910,
+                  "lng" : -16.34359460
+               }
+            },
+            "location" : {
+               "lat" : 28.469810,
+               "lng" : -16.25485580
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.58939290,
+                  "lng" : -16.11936290
+               },
+               "southwest" : {
+                  "lat" : 28.40976910,
+                  "lng" : -16.34359460
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

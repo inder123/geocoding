@@ -1,0 +1,47 @@
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "locality", "political" ],
+    "formatted_address": "Toledo, OH, USA",
+    "address_components": [ {
+      "long_name": "Toledo",
+      "short_name": "Toledo",
+      "types": [ "locality", "political" ]
+    }, {
+      "long_name": "Ohio",
+      "short_name": "OH",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 41.6529200,
+        "lng": -83.5777820
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "southwest": {
+          "lat": 41.5861889,
+          "lng": -83.7058414
+        },
+        "northeast": {
+          "lat": 41.7195821,
+          "lng": -83.4497226
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 41.5803170,
+          "lng": -83.6947540
+        },
+        "northeast": {
+          "lat": 41.7326310,
+          "lng": -83.4545660
+        }
+      }
+    }
+  } ]
+}
