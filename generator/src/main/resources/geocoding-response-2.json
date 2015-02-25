@@ -1,0 +1,55 @@
+{
+  "status": "OK",
+  "results": [ {
+    "types": [ "sublocality", "political" ],
+    "formatted_address": "Winnetka, California, USA",
+    "address_components": [ {
+      "long_name": "Winnetka",
+      "short_name": "Winnetka",
+      "types": [ "sublocality", "political" ]
+    }, {
+      "long_name": "Los Angeles",
+      "short_name": "Los Angeles",
+      "types": [ "administrative_area_level_3", "political" ]
+    }, {
+      "long_name": "Los Angeles",
+      "short_name": "Los Angeles",
+      "types": [ "administrative_area_level_2", "political" ]
+    }, {
+      "long_name": "California",
+      "short_name": "CA",
+      "types": [ "administrative_area_level_1", "political" ]
+    }, {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [ "country", "political" ]
+    } ],
+    "geometry": {
+      "location": {
+        "lat": 34.2131710,
+        "lng": -118.5710220
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "southwest": {
+          "lat": 34.1947148,
+          "lng": -118.6030368
+        },
+        "northeast": {
+          "lat": 34.2316232,
+          "lng": -118.5390072
+        }
+      },
+      "bounds": {
+        "southwest": {
+          "lat": 34.1791050,
+          "lng": -118.5883200
+        },
+        "northeast": {
+          "lat": 34.2353090,
+          "lng": -118.5534191
+        }
+      }
+    }
+  } ]
+}

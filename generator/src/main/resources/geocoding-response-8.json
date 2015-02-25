@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Annegatan",
+               "short_name" : "Annegatan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Annegatan, Helsinki, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.17088090,
+                  "lng" : 24.94279590
+               },
+               "southwest" : {
+                  "lat" : 60.16266270,
+                  "lng" : 24.93114440
+               }
+            },
+            "location" : {
+               "lat" : 60.16693210,
+               "lng" : 24.93683020
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.17088090,
+                  "lng" : 24.94279590
+               },
+               "southwest" : {
+                  "lat" : 60.16266270,
+                  "lng" : 24.93114440
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
