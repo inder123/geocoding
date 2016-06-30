@@ -19,6 +19,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.util.Random;
 
 /**
  * General utility methods.
@@ -26,6 +27,7 @@ import java.io.InputStreamReader;
  * @author Inderjeet Singh
  */
 public final class Util {
+  public static final Random random = new Random();
 
   public static String readStream(InputStream in) throws IOException {
     BufferedReader reader = new BufferedReader(new InputStreamReader(in));
